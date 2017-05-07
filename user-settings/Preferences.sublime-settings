@@ -17,16 +17,7 @@
 	],
 	"find_selected_text": true,
 	"fold_buttons": false,
-	"folder_exclude_patterns":
-	[
-	],
-	"font_face": "Ubuntu Mono",
-	"font_options":
-	[
-		"subpixel_antialias",
-		"no_round"
-	],
-	"font_size": 14,
+	"font_size": 10,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -46,6 +37,7 @@
 	"match_brackets_braces": true,
 	"match_brackets_content": true,
 	"match_brackets_square": true,
+	"material_theme_accent_bright-teal": true,
 	"new_window_settings":
 	{
 		"hide_open_files": true,
